@@ -1,0 +1,31 @@
+{
+  "author": "jakubmal <jakubmal@gmail.com> (http://github.com/jakubmal)",
+  "name": "jsx-middleware",
+  "description": "JSX (React) middleware for Express/Connect.",
+  "version": "0.4.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jakubmal/jsx-middleware.git"
+  },
+  "main": "lib/middleware.js",
+  "dependencies": {
+    "react-tools": "0.4.1",
+    "mkdirp": ">= 0.3.1"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jsx",
+    "react",
+    "middleware",
+    "express",
+    "connect"
+  ]
+}
